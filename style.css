@@ -9,7 +9,6 @@
 
 a {
     text-decoration: none;
-    color: black;
 }
 li {
     list-style-type: none;
@@ -32,7 +31,7 @@ li {
 }
 
 .bgRed {
-    background-color: #f66909;
+    background-color: #c70a0a;
 }
 
 .container {
@@ -42,7 +41,7 @@ li {
 }
 
 .btn {
-    background-color: #f66909;
+    background-color: #080000;
     border-radius: 4px;
     padding: 10px;
     color: white;
@@ -63,9 +62,8 @@ header {
     width: 50%;
 }
 
-.panier {
-    color: red;
-    font-size: 30px;
+p {
+    background-color: #c70a0a;
 }
 
 .hero {
